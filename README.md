@@ -4,8 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-
+- Ben Coleman
+- Nathan Hajel
+- Trevor Gray 
 
 ## Setup
 
